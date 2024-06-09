@@ -8,6 +8,7 @@ public class Ejemplar {
 	private String Editorial;
 	private int AnioEdicion;
 	private int ContPrest;
+	
 	public Ejemplar(String signatura, int ejemplar, int disponible, String editorial, int anioEdicion, int contPrest) {
 		Signatura = signatura;
 		Ejemplar = ejemplar;
